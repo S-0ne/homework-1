@@ -1,2 +1,2 @@
 # homework-1
-My first homework is here!
+Гоголь Олександр ІПЗс-23-1
